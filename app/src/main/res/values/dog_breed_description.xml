@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dog_breed_description">
+        <item>The Labrador Retriever, Labrador or just Lab, is a medium-large breed of retriever-gun dog. The Labrador is the most popular breed of dog in many nations.</item>
+        <item>The German Shepherd is a breed of medium to large-sized working dog that originated in Germany. In the English language, the breed\'s officially recognized name is German Shepherd Dog.</item>
+        <item>The Rottweiler is a breed of domestic dog, regarded as medium-to-large or large. The dogs were known in German as Rottweiler Metzgerhund, meaning Rottweil butchers\' dogs, because their main use was to herd livestock and pull carts laden with butchered meat to market.</item>
+        <item>The Golden Retriever is a medium-large gun dog that was bred to retrieve shot waterfowl, such as ducks and upland game birds, during hunting and shooting parties. The name "retriever" refers to the breed\'s ability to retrieve shot game undamaged due to their soft mouth. </item>
+        <item>The Chow-Chow is a dog breed originally from northern China, where it is referred to as Songshi-Quan, which means "puffy-lion dog".</item>
+        <item>The Bernese Mountain Dog is a large-sized breed of dog, one of the four breeds of Sennenhund-type dogs from the Swiss Alps. Bred from crosses of Mastiffs and guard-type breeds, Bernese Mountain Dogs were brought to Switzerland by the Romans 2,000 years ago.</item>
+        <item>The St. Bernard or St Bernard is a breed of very large working dog from the western Alps in Italy and Switzerland. They were originally bred for rescue by the hospice of the Great St Bernard Pass on the Italian-Swiss border.</item>
+        <item>The Dalmatian is a breed of large-sized dog, noted for its unique white coat marked with black or liver-coloured spots and used mainly as a carriage dog in its early days. The origins of the breed can be traced back to Croatia and its historical region of Dalmatia.</item>
+        <item>The Pyrenean Mountain Dog, known as the Great Pyrenees in North America, is a large breed of dog used as a livestock guardian dog. It should not be confused with the Pyrenean Mastiff.</item>
+    </string-array>
+</resources>
